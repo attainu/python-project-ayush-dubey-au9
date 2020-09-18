@@ -43,18 +43,18 @@ Than  you have to give some threshold value and after that you are done. The cod
 
 **VISUAL GUIDE FOR COMMAND LINE:**
 
-![image](https://github.com/attainu/python-project-ayush-dubey-au9/blob/master/Images/Screenshot1.jpg)
+![image](https://github.com/attainu/python-project-ayush-dubey-au9/blob/master/Images/Screenshot%201.jpg)
 
 **Targeted Applications**
 
 **Telegram**                    
 
-![image](https://github.com/attainu/python-project-ayush-dubey-au9/blob/master/Images/Screenshot3.jpg)
+![image](https://github.com/attainu/python-project-ayush-dubey-au9/blob/master/Images/Screenshot%202.jpg)
 
 
 **IFTTT APP**
 
-![image](https://github.com/attainu/python-project-ayush-dubey-au9/blob/master/Images/Screenshot2.jpg)
+![image](https://github.com/attainu/python-project-ayush-dubey-au9/blob/master/Images/Screenshot%203.jpg)
 
 **Python Packages and Libraries Used**
 
