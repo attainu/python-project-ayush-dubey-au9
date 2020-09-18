@@ -49,12 +49,16 @@ Than  you have to give some threshold value and after that you are done. The cod
 
 **Telegram**                    
 
+
 ![image](https://github.com/attainu/python-project-ayush-dubey-au9/blob/master/Images/Screenshot%202.jpg)
+
 
 
 **IFTTT APP**
 
+
 ![image](https://github.com/attainu/python-project-ayush-dubey-au9/blob/master/Images/Screenshot%203.jpg)
+
 
 **Python Packages and Libraries Used**
 
