@@ -2,7 +2,6 @@
 
 import requests
 import time
-import json
 from datetime import datetime
 
 
@@ -48,7 +47,7 @@ class Bitcoin():
     
     #This is the main fuction from where execution of program starts
     
-    def main(self) :
+    def Run(self) :
         
         #Here we are taking threshold price so that we can return our emergency price
         BITCOIN_PRICE_THRESHOLD = int(input("Enter your bitcoin price threshold value : \n"))
@@ -79,5 +78,5 @@ if __name__ == "__main__":
      print("WELCOME TO BITCOIN PRICE NOTIFICATION")
 
      bitcoinprice = Bitcoin()
-     bitcoinprice.main()
+     bitcoinprice.Run()
 
